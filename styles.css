@@ -1,0 +1,17 @@
+body{
+    text-align: center;
+    background-color:rgb(74, 74, 172);
+    color: yellow;
+}
+label,input{
+    margin: 1rem auto;
+    text-align: center;
+    display: block;
+}
+#output{
+    max-width: max-content;
+    margin: 1rem auto;
+    padding: 10px;
+    border-radius: 10px;
+    border: 1px solid yellow;
+}
